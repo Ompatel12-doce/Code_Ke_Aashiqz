@@ -5,7 +5,7 @@ Group project Developed by 🚀 Code_Ke_Aashiqz.. The respective group members a
 
 # Snake Game 
 
-This is a console-based Snake Game implemented in C++ with an additional bomb feature. The snake moves in a confined area, consumes food to grow in size, and avoids self-collisions and border collisions. 
+This is a console-based Snake Game implemented in C++ (with Object Oriented Programming ) . The snake moves in a confined area, consumes food to grow in size, and avoids self-collisions and border collisions. 
 
 ## Features
 
