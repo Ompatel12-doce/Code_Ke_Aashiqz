@@ -5,7 +5,7 @@ Group project of 'Snake Game' developed by Code_Ke_Aashiqz.. The respective grou
 
 # Snake Game 
 
-This is a console-based Snake Game implemented in C++ (with Object Oriented Programming) . The snake moves in a defined boundary, consumes food to grow in size such that the speed decreases on increasing size. On encountering collision with the boundary, the game ends. 
+This is a console-based Snake Game implemented in C++ (with Object Oriented Programming) .The snake moves in a defined boundary, consumes food to grow in size such that the speed decreases on increasing size. On encountering collision with the boundary, the game ends. 
 
 ## Features
 
