@@ -1,5 +1,5 @@
 # Code_Ke_Aashiqz
-Group project developed by Code_Ke_Aashiqz.. The respective group members are : 1) Pranamya Sanghvi 2) Kirtan Kamani 3) Om Patel 4) Konark Dixit
+Group project of 'Snake Game' developed by Code_Ke_Aashiqz.. The respective group members are : 1) Pranamya Sanghvi 2) Kirtan Kamani 3) Om Patel 4) Konark Dixit
 
 
 
