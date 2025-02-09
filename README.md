@@ -52,4 +52,8 @@ This is a console-based Snake Game implemented in C++ (with Object Oriented Prog
 
 - After having a detailed talk with Ankush sir regarding how to tackle this problem since it was our first time making a game, he suggested that how we should tackle this problem.
 - The first step was to make a point move on a horizontal line.
-- The next step was how to move the point on a 
+- The next step was how to move the point on a 2D matrix.
+- The next step was how we can take the input from the user in real time.
+- After doing that, it was the time we spawn food randomly in the grid(we used srand() function for that).
+- After that, we tackled how we could increase the size of the snake after it ate food.
+- The last and the perhaps the most important step was that our snake dies and the game ends once it collides with the wall.
