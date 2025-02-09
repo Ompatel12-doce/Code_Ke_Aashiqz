@@ -53,7 +53,6 @@ public:
 
     void changeDirection(char newDirection)
     {
-        // Prevent the snake from reversing directly
         if (newDirection == DIR_UP && direction != DIR_DOWN)
             direction = newDirection;
         else if (newDirection == DIR_DOWN && direction != DIR_UP)
