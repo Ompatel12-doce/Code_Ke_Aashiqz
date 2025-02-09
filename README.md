@@ -25,9 +25,7 @@ This is a console-based Snake Game implemented in C++ (with Object Oriented Prog
 ## Installation & Usage
 
 1. Clone the repository:
-
-   git clone https://github.com/yourusername/snake-game-with-bomb.git
-   cd snake-game-with-bomb
+   (https://github.com/Ompatel12-doce/Code_Ke_Aashiqz.git)
    
 2. Compile the code using a C++ compiler:
    g++ finalgame.cpp -o finalgame.exe
