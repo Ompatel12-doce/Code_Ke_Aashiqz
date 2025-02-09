@@ -9,18 +9,18 @@ This is a console-based Snake Game implemented in C++ (with Object Oriented Prog
 
 ## Features
 
-- Classic snake movement (up, down, left, right)
-- Food spawns randomly to increase the snake's length and score
-- Borders to contain gameplay
-- Score display and game restart functionality
+- Snake movement using W(Forward), S(Downwards), A(Leftwards) and D(Rightwards)
+- Random food generation is done with the help of srand() function.
+- Area is confined and not the full terminal.
+- Score is displayed after every defeat such that pressing R restarts the game.
 
 ## Controls
 
-- `W` - Move Up
-- `S` - Move Down
-- `A` - Move Left
-- `D` - Move Right
-- `R` - Restart game after Game Over
+- *W* - Move Up
+- *S* - Move Down
+- *A* - Move Left
+- *D* - Move Right
+- *R* - Restart game after Game Over
 
 ## Installation & Usage
 
@@ -29,10 +29,10 @@ This is a console-based Snake Game implemented in C++ (with Object Oriented Prog
    git clone https://github.com/yourusername/snake-game-with-bomb.git
    cd snake-game-with-bomb
    
-2. Compile the code using a C++ compiler (MinGW recommended for Windows):
-   g++ snake_game.cpp -o snake_game.exe
+2. Compile the code using a C++ compiler:
+   g++ finalgame.cpp -o finalgame.exe
 3. Run the game:
-   ./snake_game.exe
+   .\finalgame.exe
 
 ## Dependencies
 
@@ -41,8 +41,8 @@ This is a console-based Snake Game implemented in C++ (with Object Oriented Prog
 
 ## Notes
 
-- The game runs in a Windows command prompt.
-- Uses `conio.h` for non-blocking keyboard input.
+- The game runs only on a Windows command prompt.
+- Uses `conio.h` for real time keyboard input.
 - `windows.h` is required for cursor movement and screen updates.
 
 ## Difficulties
