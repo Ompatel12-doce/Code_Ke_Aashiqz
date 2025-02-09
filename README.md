@@ -45,7 +45,7 @@ This is a console-based Snake Game implemented in C++ (with Object Oriented Prog
 
 ## Difficulties
 
-- While making game, it was very diificult for us to have a background.
+- While making game, it was very difficult for us to have a background.
 - We wanted to have an obstacle 'bomb' such that on encountering it, the snake dies and the game ends.
 
 ## Steps to make this game
