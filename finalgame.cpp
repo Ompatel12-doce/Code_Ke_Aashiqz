@@ -41,7 +41,7 @@ public:
 
     Snake(int x, int y)
     {
-        length = 1;
+        length = 3;
         body[0] = Point(x, y);
         direction = DIR_RIGHT;
     }
