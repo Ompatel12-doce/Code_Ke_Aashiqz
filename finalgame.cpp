@@ -12,6 +12,7 @@ const char DIR_DOWN = 'D';
 const char DIR_LEFT = 'L';
 const char DIR_RIGHT = 'R';
 
+// This variable declaration is to determine the console width.It is defined globally to avoid any variable overlapping.
 int consoleWidth, consoleHeight;
 
 void initScreen()
